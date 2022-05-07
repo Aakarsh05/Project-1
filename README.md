@@ -2,11 +2,11 @@
 
 Project added by Aakarsh Vatsraj
 
-#TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
-HTML,CSS,BOOTSTRAP, JAVASCRIPT (VANILLA)
+HTML,CSS,BOOTSTRAP, JAVASCRIPT
 
-#DESCRIPTION
+# DESCRIPTION
 
 A website where you can order dishes of your favourite chef in your city at affordable price.
 
