@@ -1,0 +1,126 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body
+{
+   /* background-image: url("gallery/bengaluru.jpg");*/
+   background: linear-gradient(#019587,#fff);
+}
+nav .navbar
+{
+    overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+#logo
+{
+    font-family: 'Tapestry', cursive;
+}
+#features
+{
+    text-align: center;
+    width: 100%;
+    padding: 100px;
+    position: sticky;
+}
+.cal
+{
+    height: 400px;
+}
+.column
+{
+    padding: 3% 2%;
+}
+.card-text
+{
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+.head
+{
+    font-size: 100px;
+    padding-top: 50px;
+    font-family: 'Tapestry', cursive;
+    color:black;
+}
+.mum
+{
+    height: 1000px;
+}
+
+/*Reviews*/
+
+#testimonial
+{
+    width: 100%;
+    padding: 70px 0;
+}
+.title-text p
+{
+    color: black;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+    font-size: 100px;
+    
+}
+.testimonial-row
+{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap:wrap;
+}
+.testimonial-col
+{
+    flex-basis: 28%;
+    padding: 10px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    box-shadow:0px 10px 20px 3px #00968814;
+    cursor: pointer;
+    transition:transform 0.5s;
+    background-color: white;
+}
+.testimonial-col p
+{
+    font-size: 14px;
+}
+.user
+{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.user img
+{
+    width: 40px;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+.user-info .fa-brands fa-twitter
+{
+    margin-left:10px;
+    color: #27c0ff;
+    font-size: 20px;
+}
+.user-info small
+{
+    color: blue;
+}
+.testimonial-col:hover
+{
+    transform: translateY(-7px);
+}
+@media screen and (max-width:770px)
+{
+    .testimonial-col
+    {
+        flex-basis: 100%;
+    }
+}
