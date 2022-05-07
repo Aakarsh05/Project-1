@@ -13,4 +13,10 @@ The styling of this website is done using css.
 BOOTSTRAP:
 The Framework used in this website is Bootstrap.
 
+# PROBLEM RESOLVED
+
+People's craving for fancy food is being proved at an easy and affordable way.
+
+
+
 Contributed By Aakarsh Vatsraj.
