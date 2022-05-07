@@ -1,12 +1,16 @@
 # CHEF'S ELECTIO
 
-Project added by Aakarsh Vatsraj
+A static website,where you can order dishes of your favourite chef in your city at affordable price.
 
 # TECHNOLOGIES USED
 
-HTML,CSS,BOOTSTRAP
+HTML:
+It takes most of the work of my website.It bulids the structure of my Website.
 
-# DESCRIPTION
+CSS:
+The styling of this website is done using css.
 
-A website where you can order dishes of your favourite chef in your city at affordable price.
+BOOTSTRAP:
+The Framework used in this website is Bootstrap.
 
+Contributed By Aakarsh Vatsraj.
